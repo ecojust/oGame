@@ -1,61 +1,77 @@
-[2026-07-04T10:47:06.414Z][INFO] Command-line: /Applications/Unity/Hub/Editor/6000.5.2f1/Unity.app/Contents/Helpers/PackageManager/Server/UnityPackageManager server -s 65154 --ipc-path /tmp/Unity-Upm-65154.sock -l 2 --log-file '/Users/juzisang/code/github/oGame/My project/Logs/upm.log'
-[2026-07-04T10:47:06.427Z][INFO] IPC server started (IPC path=/tmp/Unity-Upm-65154.sock).
-[2026-07-04T10:47:06.427Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-65154.
-[2026-07-04T10:47:07.694Z][INFO] project:list-packages <-- Request received
+[2026-07-04T12:24:51.175Z][INFO] Command-line: /Applications/Unity/Hub/Editor/6000.5.2f1/Unity.app/Contents/Helpers/PackageManager/Server/UnityPackageManager server -s 70127 --ipc-path /tmp/Unity-Upm-70127.sock -l 2 --log-file '/Users/juzisang/code/github/oGame/My project/Logs/upm.log'
+[2026-07-04T12:24:51.183Z][INFO] IPC server started (IPC path=/tmp/Unity-Upm-70127.sock).
+[2026-07-04T12:24:51.183Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-70127.
+[2026-07-04T12:24:52.291Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-07-04T10:47:07.752Z][INFO] project:list-packages <-- Request received
+[2026-07-04T12:24:52.346Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-07-04T10:47:07.762Z][INFO] config:project:get-registries <-- Request received
+[2026-07-04T12:24:52.357Z][INFO] config:project:get-registries <-- Request received
 params: {}
-[2026-07-04T10:47:07.783Z][INFO] config:project:get-registries --> 200 (21 ms)
-[2026-07-04T10:47:08.123Z][INFO] project:list-packages --> 200 (429 ms)
-[2026-07-04T10:47:08.124Z][INFO] project:list-packages --> 200 (372 ms)
-[2026-07-04T10:47:12.223Z][INFO] project:list-packages <-- Request received
+[2026-07-04T12:24:52.365Z][INFO] config:project:get-registries --> 200 (8 ms)
+[2026-07-04T12:24:52.533Z][INFO] project:list-packages --> 200 (241 ms)
+[2026-07-04T12:24:52.583Z][INFO] project:list-packages --> 200 (237 ms)
+[2026-07-04T12:24:54.160Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-07-04T10:47:12.234Z][INFO] project:list-packages <-- Request received
+[2026-07-04T12:24:54.172Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-07-04T10:47:12.371Z][INFO] project:list-packages --> 200 (148 ms)
-[2026-07-04T10:47:12.378Z][INFO] project:list-packages --> 200 (144 ms)
-[2026-07-04T10:47:14.418Z][INFO] project:list-packages <-- Request received
+[2026-07-04T12:24:54.304Z][INFO] project:list-packages --> 200 (144 ms)
+[2026-07-04T12:24:54.311Z][INFO] project:list-packages --> 200 (139 ms)
+[2026-07-04T12:24:55.907Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-07-04T10:47:14.494Z][INFO] project:list-packages --> 200 (76 ms)
-[2026-07-04T10:47:14.919Z][INFO] config:project:get-registries <-- Request received
+[2026-07-04T12:24:55.993Z][INFO] project:list-packages --> 200 (86 ms)
+[2026-07-04T12:24:56.039Z][INFO] config:project:get-registries <-- Request received
 params: {}
-[2026-07-04T10:47:14.922Z][INFO] config:project:get-registries --> 200 (3 ms)
-[2026-07-04T10:47:41.775Z][INFO] project:list-packages <-- Request received
+[2026-07-04T12:24:56.041Z][INFO] config:project:get-registries --> 200 (2 ms)
+[2026-07-04T12:24:59.699Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-07-04T10:47:41.787Z][INFO] project:list-packages <-- Request received
-params: {}
-[2026-07-04T10:47:41.919Z][INFO] project:list-packages --> 200 (144 ms)
-[2026-07-04T10:47:41.926Z][INFO] project:list-packages --> 200 (139 ms)
-[2026-07-04T10:47:43.560Z][INFO] project:list-packages <-- Request received
-params: {}
-[2026-07-04T10:47:43.683Z][INFO] project:list-packages --> 200 (123 ms)
-[2026-07-04T10:47:45.463Z][INFO] config:project:get-registries <-- Request received
-params: {}
-[2026-07-04T10:47:45.465Z][INFO] config:project:get-registries --> 200 (2 ms)
-[2026-07-04T10:47:52.852Z][INFO] project:list-packages <-- Request received
-params: {}
-[2026-07-04T10:47:53.024Z][INFO] project:list-packages --> 200 (172 ms)
-[2026-07-04T10:47:53.076Z][INFO] packages:get-packageinfo <-- Request received
+[2026-07-04T12:24:59.803Z][INFO] project:list-packages --> 200 (104 ms)
+[2026-07-04T12:25:00.700Z][INFO] packages:get-packageinfo <-- Request received
 params: {
   "packageId": "com.unity.ai.assistant"
 }
-[2026-07-04T10:47:55.144Z][INFO] packages:get-packageinfo --> 200 (2068 ms)
-[2026-07-04T10:47:59.007Z][INFO] project:list-packages <-- Request received
+[2026-07-04T12:25:02.758Z][INFO] packages:get-packageinfo --> 200 (2058 ms)
+[2026-07-04T12:25:07.932Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-07-04T10:47:59.018Z][INFO] project:list-packages <-- Request received
+[2026-07-04T12:25:07.942Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-07-04T10:47:59.272Z][INFO] project:list-packages --> 200 (265 ms)
-[2026-07-04T10:47:59.290Z][INFO] project:list-packages --> 200 (272 ms)
-[2026-07-04T10:47:59.560Z][INFO] project:list-packages <-- Request received
+[2026-07-04T12:25:08.053Z][INFO] project:list-packages --> 200 (121 ms)
+[2026-07-04T12:25:08.070Z][INFO] project:list-packages --> 200 (128 ms)
+[2026-07-04T12:25:08.165Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-07-04T10:47:59.703Z][INFO] project:list-packages --> 200 (143 ms)
-[2026-07-04T10:48:00.343Z][INFO] config:project:get-registries <-- Request received
+[2026-07-04T12:25:08.236Z][INFO] project:list-packages --> 200 (71 ms)
+[2026-07-04T12:25:08.310Z][INFO] config:project:get-registries <-- Request received
 params: {}
-[2026-07-04T10:48:00.345Z][INFO] config:project:get-registries --> 200 (2 ms)
-[2026-07-04T10:48:01.210Z][INFO] packages:get-packageinfo <-- Request received
+[2026-07-04T12:25:08.311Z][INFO] config:project:get-registries --> 200 (1 ms)
+[2026-07-04T12:25:09.425Z][INFO] packages:get-packageinfo <-- Request received
 params: {
   "packageId": "com.unity.ai.assistant"
 }
-[2026-07-04T10:48:01.226Z][INFO] packages:get-packageinfo --> 200 (16 ms)
+[2026-07-04T12:25:09.431Z][INFO] packages:get-packageinfo --> 200 (6 ms)
+[2026-07-04T12:48:49.120Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-07-04T12:48:49.202Z][INFO] project:list-packages --> 200 (82 ms)
+[2026-07-04T12:48:49.321Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-07-04T12:48:49.387Z][INFO] project:list-packages --> 200 (66 ms)
+[2026-07-04T12:48:49.466Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-07-04T12:48:49.468Z][INFO] config:project:get-registries --> 200 (2 ms)
+[2026-07-04T12:48:50.463Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.ai.assistant"
+}
+[2026-07-04T12:48:52.104Z][INFO] packages:get-packageinfo --> 200 (1641 ms)
+[2026-07-04T12:58:26.813Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-07-04T12:58:26.880Z][INFO] project:list-packages --> 200 (67 ms)
+[2026-07-04T12:58:27.024Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-07-04T12:58:27.091Z][INFO] project:list-packages --> 200 (67 ms)
+[2026-07-04T12:58:27.168Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-07-04T12:58:27.170Z][INFO] config:project:get-registries --> 200 (2 ms)
+[2026-07-04T12:58:27.860Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.ai.assistant"
+}
+[2026-07-04T12:58:29.646Z][INFO] packages:get-packageinfo --> 200 (1786 ms)
