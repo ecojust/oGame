@@ -75,3 +75,4 @@ params: {
   "packageId": "com.unity.ai.assistant"
 }
 [2026-07-04T12:58:29.646Z][INFO] packages:get-packageinfo --> 200 (1786 ms)
+[2026-07-05T04:47:45.138Z][INFO] Received shutdown request (SIGTERM), shutting down Unity Package Manager

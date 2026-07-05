@@ -412,3 +412,21 @@ Memory consumption went from 275.1 MB to 257.5 MB.
 Total: 12.336167 ms (FindLiveObjects: 0.274041 ms CreateObjectMapping: 1.373459 ms MarkObjects: 8.965500 ms  DeleteObjects: 1.722875 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Unloading 68 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 68 unused Assets / (13.8 MB). Loaded Objects now: 9653.
+Memory consumption went from 260.7 MB to 246.9 MB.
+Total: 15.282250 ms (FindLiveObjects: 0.304083 ms CreateObjectMapping: 0.579667 ms MarkObjects: 13.677833 ms  DeleteObjects: 0.720458 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+Editor requested this worker to shutdown with reason: Editor is closing down
+AcceleratorClientConnectionCallback - disconnected - :0
+Thread 0x17a81f000 may have been prematurely finalized
+AssetImportWorker is now disconnected from the server
+Process exiting
